@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Md-ABcvJ)
 # Fra 0 til TypeScript på 2 dage
 
 ## Undersøgende opgave - TypeScript
@@ -30,3 +31,7 @@ Præsentationen skal højest vare fem minutter og skal besvare de tre spørgsmå
 demonstrere hvordan i har løst opgaven med modal komponentet.
 
 Derudover skal i aflevere et link (på Microsoft Teams) til det Github repository hvor jeres gruppes komponent findes.
+
+fra bo
+endnu mere fra bo
+branch
